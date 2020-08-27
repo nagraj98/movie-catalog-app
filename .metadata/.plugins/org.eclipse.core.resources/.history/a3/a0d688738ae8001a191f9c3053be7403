@@ -1,0 +1,14 @@
+package com.javabrains.nagraj.rating.resource;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/rating")
+public class RatingResource {
+	
+	public Rating (int movieId)
+	{
+		return new Rating()
+	}
+
+}

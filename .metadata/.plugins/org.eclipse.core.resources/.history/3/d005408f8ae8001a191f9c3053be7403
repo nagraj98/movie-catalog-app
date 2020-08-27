@@ -1,0 +1,5 @@
+package com.javabrains.nagraj.rating.model;
+
+public class Rating {
+
+}

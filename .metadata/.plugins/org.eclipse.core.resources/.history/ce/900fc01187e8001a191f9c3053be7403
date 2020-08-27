@@ -1,0 +1,20 @@
+package com.javabrains.nagraj.moviecatalog.resource;
+
+import java.util.Collections;
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.javabrains.nagraj.moviecatalog.model.CatalogItem;
+
+@RestController
+public class MovieCatalogResource {
+
+	public List<CatalogItem> getCatalog(String userId)
+	{
+		return Collections.singletonList( 
+				new CatalogItem("Transformers", "movie about transforming cars", 4)
+				);
+		
+	}
+}

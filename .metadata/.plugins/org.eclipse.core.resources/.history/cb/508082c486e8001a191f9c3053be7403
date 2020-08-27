@@ -1,0 +1,5 @@
+package com.javabrains.nagraj.moviecatalog.resource;
+
+public class MovieCatalogResource {
+
+}

@@ -1,0 +1,5 @@
+package com.javabrains.nagraj.rating.resource;
+
+public class RatingResource {
+
+}

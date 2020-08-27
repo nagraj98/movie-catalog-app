@@ -1,0 +1,7 @@
+package com.javabrains.nagraj.rating.model;
+
+public class Rating {
+
+	private int movieId;
+	private int rating;
+}

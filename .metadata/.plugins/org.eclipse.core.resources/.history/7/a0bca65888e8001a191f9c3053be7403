@@ -1,0 +1,10 @@
+package com.javabrains.nagraj.movieinfo.model;
+
+
+public class Movie {
+
+	private int movieId;
+	private String name;
+	private String description;
+	
+}
