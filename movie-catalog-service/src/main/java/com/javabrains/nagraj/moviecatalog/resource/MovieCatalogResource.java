@@ -35,11 +35,11 @@ public class MovieCatalogResource {
 		//List<Rating> ratings = restTemplate.getForObject("https://localhost:8043/rating/users/" + userId, responseType)
 		
 		//UserRatings ratings = restTemplate.getForObject("http:")
-		UserRatings ratings = restTemplate.getForObject("http://localhost:8043/rating/users/" + userId, UserRatings.class);
+		UserRatings ratings = restTemplate.getForObject("http://ratings-service/rating/users/" + userId, UserRatings.class);
 		
 		return ratings.getUserRatings().stream().map(rating -> {
 			//get the movie object from its url
-			Movie movie = restTemplate.getForObject("http://localhost:8041/movies/" + rating.getMovieId(), Movie.class);
+			Movie movie = restTemplate.getForObject("http://movie-info-service/movies/" + rating.getMovieId(), Movie.class);
 			// bad thing 1 - hardcoding the url above (8041), it should instead discover the movie info service.
 			return new CatalogItem(movie.getName(),movie.getDescription(),rating.getRating());
 		})
