@@ -1305,3 +1305,324 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 14:42:42.150
 !MESSAGE executing callback sts4.classpath.NagFttvN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:27.121
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:27.128
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:27.134
+!MESSAGE buffering callback sts4.classpath.NagFttvN discovery-server false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:27.138
+!MESSAGE executing callback sts4.classpath.NagFttvN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:27.145
+!MESSAGE executing callback sts4.classpath.NagFttvN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:29.107
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:29.117
+!MESSAGE classpath=163 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:29.126
+!MESSAGE buffering callback sts4.classpath.NagFttvN discovery-server false 163
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:29.131
+!MESSAGE executing callback sts4.classpath.NagFttvN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:29.146
+!MESSAGE executing callback sts4.classpath.NagFttvN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:30.804
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:30.814
+!MESSAGE classpath=163 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:30.822
+!MESSAGE buffering callback sts4.classpath.NagFttvN discovery-server false 163
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:30.827
+!MESSAGE executing callback sts4.classpath.NagFttvN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:06:30.837
+!MESSAGE executing callback sts4.classpath.NagFttvN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:09:33.267
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:09:33.276
+!MESSAGE classpath=146 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:09:33.284
+!MESSAGE buffering callback sts4.classpath.NagFttvN rating-service false 146
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:09:33.289
+!MESSAGE executing callback sts4.classpath.NagFttvN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:09:33.298
+!MESSAGE executing callback sts4.classpath.NagFttvN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:09:36.387
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:09:36.405
+!MESSAGE classpath=146 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:09:36.412
+!MESSAGE buffering callback sts4.classpath.NagFttvN rating-service false 146
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:09:36.417
+!MESSAGE executing callback sts4.classpath.NagFttvN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:09:36.427
+!MESSAGE executing callback sts4.classpath.NagFttvN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:10:49.014
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:10:49.024
+!MESSAGE classpath=146 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:10:49.033
+!MESSAGE buffering callback sts4.classpath.NagFttvN movie-catalog-service false 146
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:10:49.038
+!MESSAGE executing callback sts4.classpath.NagFttvN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:10:49.047
+!MESSAGE executing callback sts4.classpath.NagFttvN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:10:56.446
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:10:56.456
+!MESSAGE classpath=146 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:10:56.464
+!MESSAGE buffering callback sts4.classpath.NagFttvN movie-info-service false 146
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:10:56.469
+!MESSAGE executing callback sts4.classpath.NagFttvN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:10:56.476
+!MESSAGE executing callback sts4.classpath.NagFttvN SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:11:00.452
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:11:00.461
+!MESSAGE classpath=146 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:11:00.468
+!MESSAGE buffering callback sts4.classpath.NagFttvN rating-service false 146
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:11:00.473
+!MESSAGE executing callback sts4.classpath.NagFttvN 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:11:00.481
+!MESSAGE executing callback sts4.classpath.NagFttvN SUCCESS [done]
+
+!ENTRY org.eclipse.tm4e.ui 4 0 2020-08-28 16:18:13.148
+!MESSAGE 
+!STACK 0
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.offsetByLine(TreeLineTracker.java:335)
+	at org.eclipse.jface.text.TreeLineTracker.getLineOffset(TreeLineTracker.java:1111)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineOffset(AbstractLineTracker.java:161)
+	at org.eclipse.jface.text.AbstractDocument.getLineOffset(AbstractDocument.java:877)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOffset(SynchronizableDocument.java:323)
+	at org.eclipse.tm4e.ui.text.TMPresentationReconciler$InternalListener.colorize(TMPresentationReconciler.java:382)
+	at org.eclipse.tm4e.ui.text.TMPresentationReconciler$InternalListener.lambda$0(TMPresentationReconciler.java:364)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4005)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3633)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+!ENTRY org.eclipse.tm4e.ui 4 0 2020-08-28 16:18:13.522
+!MESSAGE 
+!STACK 0
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.offsetByLine(TreeLineTracker.java:335)
+	at org.eclipse.jface.text.TreeLineTracker.getLineOffset(TreeLineTracker.java:1111)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineOffset(AbstractLineTracker.java:161)
+	at org.eclipse.jface.text.AbstractDocument.getLineOffset(AbstractDocument.java:877)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOffset(SynchronizableDocument.java:323)
+	at org.eclipse.tm4e.ui.text.TMPresentationReconciler$InternalListener.colorize(TMPresentationReconciler.java:382)
+	at org.eclipse.tm4e.ui.text.TMPresentationReconciler$InternalListener.lambda$0(TMPresentationReconciler.java:364)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4005)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3633)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+!ENTRY org.eclipse.tm4e.ui 4 0 2020-08-28 16:18:13.527
+!MESSAGE 
+!STACK 0
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.offsetByLine(TreeLineTracker.java:335)
+	at org.eclipse.jface.text.TreeLineTracker.getLineOffset(TreeLineTracker.java:1111)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineOffset(AbstractLineTracker.java:161)
+	at org.eclipse.jface.text.AbstractDocument.getLineOffset(AbstractDocument.java:877)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOffset(SynchronizableDocument.java:323)
+	at org.eclipse.tm4e.ui.text.TMPresentationReconciler$InternalListener.colorize(TMPresentationReconciler.java:382)
+	at org.eclipse.tm4e.ui.text.TMPresentationReconciler$InternalListener.lambda$0(TMPresentationReconciler.java:364)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4005)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3633)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:27:55.666
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NagFttvN
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:27:56.126
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.NagFttvN
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:27:56.145
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:27:56.158
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NagFttvN => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:03.454
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:03.459
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@74997ca6[org.springframework.tooling.boot.ls:1.20.0.202007271426(id=496)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:03.464
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.746
+!MESSAGE Boot LS startup time from start to initialized: 1276ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.776
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.atParOkmisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.781
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.786
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.792
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.800
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.805
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.811
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.816
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.atParOkm => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.823
+!MESSAGE classpath=146 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.833
+!MESSAGE buffering callback sts4.classpath.atParOkm movie-catalog-service false 146
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.838
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.846
+!MESSAGE classpath=163 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.855
+!MESSAGE buffering callback sts4.classpath.atParOkm discovery-server false 163
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.859
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.867
+!MESSAGE classpath=146 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.875
+!MESSAGE buffering callback sts4.classpath.atParOkm movie-info-service false 146
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.879
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.886
+!MESSAGE classpath=146 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.893
+!MESSAGE buffering callback sts4.classpath.atParOkm rating-service false 146
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.897
+!MESSAGE executing callback sts4.classpath.atParOkm 4 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 16:28:04.930
+!MESSAGE executing callback sts4.classpath.atParOkm SUCCESS [done]
