@@ -8,7 +8,7 @@ public class Movie {
 	private String description;
 	
 	public Movie() {
-		
+		super();
 	}
 	
 	public Movie(int movieId, String name, String description) {
